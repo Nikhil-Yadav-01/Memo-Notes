@@ -1,4 +1,4 @@
-package com.rudraksha.memonotes.model
+package com.rudraksha.memonotes.data.model
 
 import android.graphics.Bitmap
 import androidx.room.ColumnInfo
